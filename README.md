@@ -1,6 +1,7 @@
-# doit-vue.js-todo-list
+# Do it! Vue.js TODO it!
+[**Do it! Vue.js**](http://www.yes24.com/Product/Goods/58206961)에서 나온 TODO it! 프로젝트를 보고 클론 코딩하였습니다.
 
-> A Vue.js project
+![TESTING](./images/main.gif)
 
 ## Build Setup
 
