@@ -18,11 +18,11 @@ export default {
             if(this.newTodoItem !== "") {
                 var value = this.newTodoItem && this.newTodoItem.trim();
                 this.$emit('addTodo', value);
-                this.ClearInput();
+                this.clearInput();
             }
         },
         clearInput() {
-            this.newTodoItem = '';
+            this.newTodoItem = ' ';
         }
     }
 }
